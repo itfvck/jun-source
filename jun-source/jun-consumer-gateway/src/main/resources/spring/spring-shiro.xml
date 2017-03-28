@@ -41,9 +41,9 @@
 				/statics/**=anon
 				/captcha.jpg=anon
 				/login=anon
+				/druid=anon
 				/**=authc
 			</value>
 		</property>
 	</bean>
-
 </beans>
